@@ -95,7 +95,7 @@ a.btn-sign-up {
     font-family: 'Montserrat', sans-serif;
 }
 
-.btn-sign-up h4{
+.btn-sign-up span{
     margin: 0;
     font-size: 1.2em;
     display: inline;
